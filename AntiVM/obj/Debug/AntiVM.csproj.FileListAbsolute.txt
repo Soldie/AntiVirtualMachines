@@ -1,0 +1,6 @@
+E:\Project\AntiVM\AntiVM\bin\Debug\AntiVM.exe
+E:\Project\AntiVM\AntiVM\bin\Debug\AntiVM.pdb
+E:\Project\AntiVM\AntiVM\obj\Debug\AntiVM.csprojAssemblyReference.cache
+E:\Project\AntiVM\AntiVM\obj\Debug\AntiVM.csproj.CoreCompileInputs.cache
+E:\Project\AntiVM\AntiVM\obj\Debug\AntiVM.exe
+E:\Project\AntiVM\AntiVM\obj\Debug\AntiVM.pdb
