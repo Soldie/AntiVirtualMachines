@@ -5,6 +5,7 @@
 
 На данный момент защита от следующих программ:
 * Vmware
+* Debugger
 * Sandboxies
 * RDP
 
